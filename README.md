@@ -8,8 +8,6 @@ The notebook expects `loan_approval_data.csv` in the same folder as the notebook
 
 The dataset includes applicant and financial attributes such as income, employment status, credit score, existing loans, debt-to-income ratio, savings, loan amount, loan purpose, and the `Loan_Approved` target.
 
-**Before publishing the CSV:** confirm that you have permission to redistribute it and that it contains no personal or confidential applicant information. If not, do not commit the dataset; explain in this README how authorized users can obtain it.
-
 ## Models
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
